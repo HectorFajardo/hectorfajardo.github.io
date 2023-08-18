@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs #to display as website in github
 
 website:
   title: "Hector's Blog"
