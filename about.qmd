@@ -1,0 +1,22 @@
+---
+title: "Hector Fajardo"
+image: about_profile.jpg
+about: 
+  template: jolla
+  links:
+    - icon: twitter
+    #icons come from: https://icons.getbootstrap.com/
+      text: Twitter
+      href: https://twitter.com/hfajardo9
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hfajardo9/
+    - icon: github
+      text: Github
+      href: https://github.com/HectorFajardo
+    - icon: envelope-at
+      text: email address
+      href: mailto:hhfajard@ncsu.edu
+---
+
+A simple guy enjoying the simple things in life!
