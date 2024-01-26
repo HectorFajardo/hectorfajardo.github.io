@@ -1,0 +1,18 @@
+---
+title: "Science presentations"
+about: 
+  template: jolla
+  links:
+    - icon: Youtube
+    #icons come from: https://icons.getbootstrap.com/
+      text: ASA-CSSA-SSSA meeting 2020 presentation
+      href: https://youtu.be/I46-EW1CGCw?si=yg41lhtdF4MD7cgw
+    - icon: Youtube
+      text: KCl extraction for amonium/nitrate
+      href: https://youtu.be/6S4zM7oXVMY?si=f3u7bajinQEGNFbg
+    - icon: Youtube
+      text: MS thesis
+      href: https://youtu.be/acN8PbHAugk?si=W1UM1AqkaqwvW-4p
+---
+
+Here you have some examples of my science communication work
