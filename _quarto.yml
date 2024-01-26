@@ -17,8 +17,7 @@ website:
     right:
       - text: about
         href: about.qmd
-      - icon: twitter
-        href: https://twitter.com/hfajardo9
+
 format:
   html:
     theme: cosmo
