@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "research_projects.html",
+    "href": "research_projects.html",
+    "title": "Research and professional experience",
+    "section": "",
+    "text": "BS: Agricultural Engineering (Universidad Mayor de San Andres - Bolivia) Crop modeling on nitrogen fertilization and irrigation scheduling\nIrrigation systems management consultant\nMSc:Soil Science – Soil Fertility (Louisiana State University) Sensor based (UAV and Proximal sensor) cover crop nutrient content Cover cropping effect on sugarcane productivity and nutrient cycling\nPhD: BAE (NC State – STEPS) Process-based modeling and stable isotopic source tracking for phosphate source attribution in an agricultural watershed"
+  },
+  {
+    "objectID": "science_communication.html",
+    "href": "science_communication.html",
+    "title": "Science presentations",
+    "section": "",
+    "text": "Here you have some examples of my science communication work"
   }
 ]
