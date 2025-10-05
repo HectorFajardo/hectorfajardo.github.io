@@ -1,20 +1,20 @@
-# 🌐 My Personal Website
+# 🌐 Personal Website
 
-Welcome to the repository for my personal website, hosted on *GitHub Pages*!  
-This site showcases my projects, research, and professional experience.
+This repository contains the source code for my personal website built with **[Quarto](https://quarto.org/)** and **R**. The site highlights my projects, research interests, and professional experience.
 
-🔗 **Visit the website:** [https://hectorfajardo.github.io/](https://hectorfajardo.github.io/)
+🔗 **Live site:** [https://hectorfajardo.github.io/](https://hectorfajardo.github.io/)
 
 ---
 
 ## 📄 Overview
 
-This repository contains the source files for my personal website, built using **[Quarto](https://quarto.org/)** and **R**.  
-The site is rendered from Quarto (`.qmd`) documents into static HTML and deployed through GitHub Pages.  
+- The site content is authored in Quarto (`.qmd`) documents.
+- GitHub Pages serves the rendered HTML stored in the `docs/` directory.
+- `_freeze/` caches generated assets to speed up subsequent renders.
 
 ---
 
-## 🚀 Deployment
+## 🛠️ Technology Stack
 
 To update the site:
 1. Edit or add content in this repository.
@@ -23,34 +23,58 @@ To update the site:
 
 ---
 
-## 🛠️ Technologies Used
+## 🔄 Deployment
 
-- **R**
-- **Quarto**
-- **HTML / CSS**
-- **GitHub Pages** for hosting
+GitHub Pages is configured to publish the contents of `docs/` from the `main`
+branch. To update the live site:
+
+1. Edit or add content locally.
+2. Run `quarto render` if you want to update the generated files before
+   committing.
+3. Commit and push your changes to `main`.
+4. GitHub Pages will automatically serve the updated content.
 
 ---
 
 ## 📁 Repository Structure
 
+```
 .
-├── _quarto.yml
-├── index.qmd
-├── about.qmd
-├── posts/
-│   ├── post1.qmd
-│   └── post2.qmd
-├── docs/              # Rendered site output
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
+├── PersonalBlog.Rproj       # RStudio project file
 ├── README.md
-└── CNAME              # (optional, if using a custom domain)
+├── _freeze/                 # Quarto cache of rendered outputs
+│   ├── posts/
+│   └── site_libs/
+├── _quarto.yml              # Global Quarto configuration
+├── about.qmd
+├── about/                   # Static assets for the About page
+│   └── about_profile.jpg
+├── blog.qmd
+├── cv.qmd
+├── cv/                      # Supporting assets for the CV page
+│   └── CV_Fajardo_Hector.pdf
+├── docs/                    # Rendered site published by GitHub Pages
+│   ├── about/
+│   ├── cv/
+│   ├── posts/
+│   └── site_libs/
+├── home_pic.jpg
+├── index.qmd                # Homepage source
+├── posts/
+│   ├── _metadata.yml        # Shared metadata for blog posts
+│   ├── post-with-code/
+│   │   ├── image.jpg
+│   │   └── index.qmd
+│   └── welcome/
+│       ├── index.qmd
+│       └── thumbnail.jpg
+├── research_projects.qmd
+├── science_communication.qmd
+└── styles.css               # Custom site styling
+```
 
 ---
 
 ## 📜 License
 
-This project is open source under the [MIT License](LICENSE).
+A license has not been specified for this repository. If you plan to reuse the content, please contact the repository owner.
