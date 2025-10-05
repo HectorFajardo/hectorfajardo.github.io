@@ -3,9 +3,12 @@ project:
   output-dir: docs #to display as website in github
 
 website:
-  title: "Hector's Blog"
+  title: "Hector Fajardo"
+  site-url: https://hectorfajardo.github.io/
   navbar:
     left: 
+      - text: Blog
+        href: blog.qmd
       - text: Research
         href: research_projects.qmd
       - text: Sci-Comm
