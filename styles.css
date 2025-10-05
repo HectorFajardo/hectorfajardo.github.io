@@ -1,1 +1,12 @@
 /* css styles */
+
+/* Make all links black */
+a {
+  color: darkgreen !important;
+  text-decoration: none; /* optional: removes underline */
+}
+
+/* Justify the body text on the about page */
+.quarto-about-jolla main.content p {
+  text-align: justify;
+}
