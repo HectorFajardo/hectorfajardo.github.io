@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "Hector Fajardo",
     "section": "",
-    "text": "A simple guy enjoying the simple things in life!"
+    "text": "Hi there! 👋\nI'm an agricultural engineer and agronomist with a passion for keeping nutrients where they belong — in the soil, not the water.\nI'm currently pursuing my PhD at North Carolina State University (Go Pack! 🐺🐾) in Biological and Agricultural Engineering, where I spend my days thinking about phosphorus, modeling watersheds, and explaining to my computer why it should cooperate.\nAlso, I'm proud to be both a STEPS Scholar and a FFAR Fellow, which basically means I get to work with some brilliant people while trying to save the world one nutrient cycle at a time.\nBefore landing in Raleigh, NC, I earned my Master's in Soil Fertility from Louisiana State University (Geaux Tigers! 🐅) and my Bachelor's in Agricultural Engineering from Universidad Mayor de San Andrés in Bolivia ⛰️🇧🇴.\nIn short — I love soil, sustainability, and simulations. If it involves plants, water, or code, there's a good chance I'm interested."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Welcome",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Portrait of Hector Fajardo\n\n\nHello! I’m Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you’ll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I’m exploring and the communities I’m collaborating with.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -37,8 +37,64 @@
   {
     "objectID": "science_communication.html",
     "href": "science_communication.html",
-    "title": "Science presentations",
+    "title": "Science Presentations",
     "section": "",
-    "text": "Here you have some examples of my science communication work"
+    "text": "Spotify Apple Podcast\n\n\n\nSpotify Apple Podcast\n\n\n\nSpotify Apple Podcast\n\n\n\nSpotify Apple Podcast"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay up to date with my latest posts covering research highlights, science communication projects, and reflections from the field.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "science_communication.html#tbl-nc",
+    "href": "science_communication.html#tbl-nc",
+    "title": "Science Presentations",
+    "section": "",
+    "text": "Spotify Apple Podcast"
+  },
+  {
+    "objectID": "science_communication.html#nutrient-management",
+    "href": "science_communication.html#nutrient-management",
+    "title": "Science Presentations",
+    "section": "",
+    "text": "Spotify Apple Podcast"
+  },
+  {
+    "objectID": "science_communication.html#p-week",
+    "href": "science_communication.html#p-week",
+    "title": "Science Presentations",
+    "section": "",
+    "text": "Spotify Apple Podcast"
+  },
+  {
+    "objectID": "science_communication.html#steps-vision",
+    "href": "science_communication.html#steps-vision",
+    "title": "Science Presentations",
+    "section": "",
+    "text": "Spotify Apple Podcast"
+  },
+  {
+    "objectID": "science_communication.html#tri-societies-meeting-presentation",
+    "href": "science_communication.html#tri-societies-meeting-presentation",
+    "title": "Science Presentations",
+    "section": "Tri-societies meeting presentation",
+    "text": "Tri-societies meeting presentation\nIn this video, I share the presentation I made."
+  },
+  {
+    "objectID": "science_communication.html#kcl-extraction-for-amoniumnitrate-video-tutorial",
+    "href": "science_communication.html#kcl-extraction-for-amoniumnitrate-video-tutorial",
+    "title": "Science Presentations",
+    "section": "KCl extraction for amonium/nitrate video tutorial",
+    "text": "KCl extraction for amonium/nitrate video tutorial\nThis is a video I prepared to explain the process of KCl extraction."
+  },
+  {
+    "objectID": "science_communication.html#ms-thesis",
+    "href": "science_communication.html#ms-thesis",
+    "title": "Science Presentations",
+    "section": "MS Thesis",
+    "text": "MS Thesis\nIn this video I share my MS thesis defense. I hope you enjoy it."
   }
 ]
