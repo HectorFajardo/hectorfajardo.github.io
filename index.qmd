@@ -1,12 +1,13 @@
 ---
-title: "Home"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome"
+page-layout: article
+image: home_pic.jpg
 ---
+
+![Portrait of Hector Fajardo](home_pic.jpg){width="220" style="border-radius: 50%; float: right; margin: 0 0 1.5rem 1.5rem;"}
+
+Hello! I'm Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you'll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I'm exploring and the communities I'm collaborating with.
+
+Whether you're interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I'm always excited to connect and discuss new ideas.
+
+<div style="clear: both;"></div>
