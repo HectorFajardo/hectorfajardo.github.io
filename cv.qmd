@@ -1,5 +1,3 @@
-<iframe 
-  width="800" 
-  height="800" 
-  src="cv/CV_Fajardo_Hector.pdf">
+<iframe width="800" height="800" src="cv/CV_Fajardo_Hector.pdf">
+
 </iframe>
