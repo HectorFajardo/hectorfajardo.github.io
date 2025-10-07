@@ -9,18 +9,18 @@ website:
   navbar:
     left: 
       - text: Blog
-        href: blog.qmd
+        href: t02_blog.qmd
       - text: Research
-        href: research_projects.qmd
+        href: t03_research_projects.qmd
       - text: Sci-Comm
-        href: scicomm.qmd
-      - text: Resume
-        href: resume.qmd
+        href: t04_scicomm.qmd
+      #- text: Resume
+      #  href: resume.qmd
       - text: CV
-        href: cv.qmd
+        href: t05_cv.qmd
     right:
       - text: about
-        href: about.qmd
+        href: t06_about.qmd
 
 format:
   html:

@@ -1,0 +1,20 @@
+---
+title: "Hector Fajardo"
+subtitle: "Nutrient Management | Water Quality Modeler | Soil Fertility"
+image: home_pic.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 400px
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/HectorFajardo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hfajardo9/
+---
+
+Hello! I'm Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you'll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I'm exploring and the communities I'm collaborating with.
+
+Whether you're interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I'm always excited to connect and discuss new ideas.
