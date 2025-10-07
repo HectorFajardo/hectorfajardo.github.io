@@ -1,44 +1,42 @@
 # 🌐 Personal Website
 
-This repository contains the source code for my personal website built with **[Quarto](https://quarto.org/)** and **R**. The site highlights my projects, research interests, and professional experience.
+This repository contains the source code for my personal website built with [**Quarto**](https://quarto.org/) and **R**. The site highlights my projects, research interests, and professional experience.
 
-🔗 **Live site:** [https://hectorfajardo.github.io/](https://hectorfajardo.github.io/)
+🔗 **Live site:** <https://hectorfajardo.github.io/>
 
----
+------------------------------------------------------------------------
 
 ## 📄 Overview
 
-- The site content is authored in Quarto (`.qmd`) documents.
-- GitHub Pages serves the rendered HTML stored in the `docs/` directory.
-- `_freeze/` caches generated assets to speed up subsequent renders.
+-   The site content is authored in Quarto (`.qmd`) documents.
+-   GitHub Pages serves the rendered HTML stored in the `docs/` directory.
+-   `_freeze/` caches generated assets to speed up subsequent renders.
 
----
+------------------------------------------------------------------------
 
 ## 🛠️ Technology Stack
 
-To update the site:
-1. Edit or add content in this repository.
-2. Commit and push the changes to the `main` branch.
+To update the site: 
+1. Edit or add content in this repository. 
+2. Commit and push the changes to the `main` branch. 
 3. GitHub Pages will automatically rebuild and publish the site.
 
----
+------------------------------------------------------------------------
 
 ## 🔄 Deployment
 
-GitHub Pages is configured to publish the contents of `docs/` from the `main`
-branch. To update the live site:
+GitHub Pages is configured to publish the contents of `docs/` from the `main` branch. To update the live site:
 
-1. Edit or add content locally.
-2. Run `quarto render` if you want to update the generated files before
-   committing.
-3. Commit and push your changes to `main`.
-4. GitHub Pages will automatically serve the updated content.
+1.  Edit or add content locally.
+2.  Run `quarto render` if you want to update the generated files before committing.
+3.  Commit and push your changes to `main`.
+4.  GitHub Pages will automatically serve the updated content.
 
----
+------------------------------------------------------------------------
 
 ## 📁 Repository Structure
 
-```
+```         
 .
 ├── PersonalBlog.Rproj       # RStudio project file
 ├── README.md
@@ -73,7 +71,7 @@ branch. To update the live site:
 └── styles.css               # Custom site styling
 ```
 
----
+------------------------------------------------------------------------
 
 ## 📜 License
 

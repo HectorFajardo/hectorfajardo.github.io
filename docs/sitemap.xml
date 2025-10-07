@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hectorfajardo.github.io/about.html</loc>
-    <lastmod>2025-10-05T04:56:41.578Z</lastmod>
+    <lastmod>2025-10-07T18:48:47.737Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/index.html</loc>
-    <lastmod>2025-10-05T04:54:50.649Z</lastmod>
+    <lastmod>2025-10-07T20:09:25.144Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/posts/post-with-code/index.html</loc>
@@ -22,14 +22,54 @@
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/science_communication.html</loc>
-    <lastmod>2025-10-05T04:52:53.094Z</lastmod>
+    <lastmod>2025-10-07T20:06:30.195Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/blog.html</loc>
-    <lastmod>2025-10-05T04:53:10.902Z</lastmod>
+    <lastmod>2025-10-07T20:13:20.538Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/cv.html</loc>
     <lastmod>2025-10-05T04:55:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/phosforus_01/index.html</loc>
+    <lastmod>2025-10-07T20:10:31.436Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/phosforus_02/index.html</loc>
+    <lastmod>2025-10-07T20:11:40.947Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/phosforus_03/index.html</loc>
+    <lastmod>2025-10-07T19:36:24.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/phosforus_04/index.html</loc>
+    <lastmod>2025-10-07T19:49:27.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/lsu_01/index.html</loc>
+    <lastmod>2025-10-07T19:49:24.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/lsu_02/index.html</loc>
+    <lastmod>2025-10-07T19:49:25.402Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm_posts/lsu_03/index.html</loc>
+    <lastmod>2025-10-07T19:57:24.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/blog_posts/post-with-code/index.html</loc>
+    <lastmod>2025-10-07T20:09:21.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/blog_posts/welcome/index.html</loc>
+    <lastmod>2025-10-07T20:09:22.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/scicomm.html</loc>
+    <lastmod>2025-10-07T20:11:47.803Z</lastmod>
   </url>
 </urlset>

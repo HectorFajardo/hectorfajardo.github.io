@@ -1,0 +1,10 @@
+---
+title: "KCl extraction for ammonium/nitrate (inorganic N) soil concentration"
+date: "2022-03-21"
+categories: [Tutorial]
+#image: "phosforus_logo.jpeg"
+---
+
+🎥 Watch on:
+
+\- [YouTube](https://www.youtube.com/watch?v=6S4zM7oXVMY&t=195s)

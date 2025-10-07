@@ -1,0 +1,14 @@
+---
+title: "Science communication"
+listing:
+  contents: scicomm_posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+This section highlights my involvement in science communication initiatives and outreach activities.

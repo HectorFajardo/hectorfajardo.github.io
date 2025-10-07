@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>HF - Hector Fajardo</title>
+<title>HF - Science communication</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -57,12 +60,43 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -88,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./science_communication.html" rel="" target="">
+    <a class="nav-link active" href="./scicomm.html" rel="" target="" aria-current="page">
  <span class="menu-text">Sci-Comm</span></a>
   </li>  
   <li class="nav-item">
@@ -102,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">about</span></a>
   </li>  
 </ul>
@@ -113,51 +147,270 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Science communication</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Podcast">Podcast <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Presentation">Presentation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Tutorial">Tutorial <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="about/about_profile.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Hector Fajardo</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<p><strong>Hi there!</strong> 👋<br>
-I’m an agricultural engineer and agronomist with a passion for keeping nutrients where they belong — in the soil, not the water.</p>
-<p>I’m currently pursuing my PhD at <strong>North Carolina State University</strong> (Go Pack! 🐺🐾) in <a href="https://bae.ncsu.edu/"><strong>Biological and Agricultural Engineering</strong></a>, where I spend my days thinking about phosphorus, modeling watersheds, and explaining to my computer why it <em>should</em> cooperate.</p>
-<p>Also, I’m proud to be both a <a href="https://steps-center.org/steps-team/hector-fajardo/"><strong>STEPS Scholar</strong></a> and a <a href="https://storymaps.arcgis.com/stories/aec215c0f5ed4c5684a6235ce385f9c3"><strong>FFAR Fellow</strong></a>, which basically means I get to work with some brilliant people while trying to save the world one nutrient cycle at a time.</p>
-<p>Before landing in Raleigh, NC, I earned my <em>Master’s in Soil Fertility</em> from <em>Louisiana State University</em> (Geaux Tigers! 🐅) and my <em>Bachelor’s in Agricultural Engineering</em> from <em>Universidad Mayor de San Andrés</em> in Bolivia ⛰️🇧🇴.</p>
-<p>In short — I love soil, sustainability, and simulations. If it involves plants, water, or code, there’s a good chance I’m interested.</p>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://twitter.com/hfajardo9" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://www.linkedin.com/in/hfajardo9/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/HectorFajardo" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="mailto:hhfajard@ncsu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope-at"></i>
-     <span class="about-link-text">email address</span>
-  </a>
+
+
+<p>This section highlights my involvement in science communication initiatives and outreach activities.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Podcast" data-listing-date-sort="1746763200000" data-listing-file-modified-sort="1759865908468" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/phosforus_04/index.html"> <img src="./scicomm_posts/phosforus_04/luke.jpg" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/phosforus_04/index.html">
+<h3 class="no-anchor listing-title">
+Phosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcast'); return false;">
+Podcast
 </div>
 </div>
- <!-- /main -->
+<a href="./scicomm_posts/phosforus_04/index.html">
+<div class="listing-description">
+In this episode we (Jiangfeng Xu and I, STEPS scholars) interviewed Dr.&nbsp;Luke Gatiboni, professor at North Carolina State University. We learn about the P fertilization in Eastern NC and build up of…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/phosforus_04/index.html">
+<div class="listing-date">
+May 9, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Podcast" data-listing-date-sort="1729137600000" data-listing-file-modified-sort="1759865406626" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/phosforus_03/index.html"> <img src="./scicomm_posts/phosforus_03/deanna.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/phosforus_03/index.html">
+<h3 class="no-anchor listing-title">
+Bridging Research and Practice: An interview with Dr.&nbsp;Deanna Osmond
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcast'); return false;">
+Podcast
+</div>
+</div>
+<a href="./scicomm_posts/phosforus_03/index.html">
+<div class="listing-description">
+In this episode we (Lily Kyle and I, STEPS scholars) interviewed Dr.&nbsp;Deanna Osmond, professor at North Carolina State University. We discussed…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/phosforus_03/index.html">
+<div class="listing-date">
+Oct 17, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Podcast" data-listing-date-sort="1712721600000" data-listing-file-modified-sort="1759864312151" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/phosforus_02/index.html"> <img src="./scicomm_posts/phosforus_02/p_week.jpg" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/phosforus_02/index.html">
+<h3 class="no-anchor listing-title">
+Phosphorus week
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcast'); return false;">
+Podcast
+</div>
+</div>
+<a href="./scicomm_posts/phosforus_02/index.html">
+<div class="listing-description">
+In this episode, I had the opportunity to interview Dr.&nbsp;Matt Sholz from Sustainable Phosphorus Alliance. We talked…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/phosforus_02/index.html">
+<div class="listing-date">
+Apr 10, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Podcast" data-listing-date-sort="1684123200000" data-listing-file-modified-sort="1759867588192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/phosforus_01/index.html"> <img src="./scicomm_posts/phosforus_01/phosforus_logo.jpeg" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/phosforus_01/index.html">
+<h3 class="no-anchor listing-title">
+STEPS vision: Is 25-in-25 possible?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcast'); return false;">
+Podcast
+</div>
+</div>
+<a href="./scicomm_posts/phosforus_01/index.html">
+<div class="listing-description">
+In this episode we (George Hotelling and I, STEPS scholars) interviewed Dr.&nbsp;Jacob Jones, professor at North Carolina State University. We discussed the vision of the STEPS…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/phosforus_01/index.html">
+<div class="listing-date">
+May 15, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Presentation" data-listing-date-sort="1664856000000" data-listing-file-modified-sort="1759866685982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/lsu_03/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/lsu_03/index.html">
+<h3 class="no-anchor listing-title">
+MS Presentation
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Presentation'); return false;">
+Presentation
+</div>
+</div>
+<a href="./scicomm_posts/lsu_03/index.html">
+<div class="listing-description">
+🎥 Watch on:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/lsu_03/index.html">
+<div class="listing-date">
+Oct 4, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="Tutorial" data-listing-date-sort="1647835200000" data-listing-file-modified-sort="1759866415687" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/lsu_02/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/lsu_02/index.html">
+<h3 class="no-anchor listing-title">
+KCl extraction for ammonium/nitrate (inorganic N) soil concentration
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Tutorial'); return false;">
+Tutorial
+</div>
+</div>
+<a href="./scicomm_posts/lsu_02/index.html">
+<div class="listing-description">
+🎥 Watch on:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/lsu_02/index.html">
+<div class="listing-date">
+Mar 21, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="Presentation" data-listing-date-sort="1633233600000" data-listing-file-modified-sort="1759866399479" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./scicomm_posts/lsu_01/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./scicomm_posts/lsu_01/index.html">
+<h3 class="no-anchor listing-title">
+Evaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Presentation'); return false;">
+Presentation
+</div>
+</div>
+<a href="./scicomm_posts/lsu_01/index.html">
+<div class="listing-description">
+🎥 Watch on:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./scicomm_posts/lsu_01/index.html">
+<div class="listing-date">
+Oct 3, 2021
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -178,6 +431,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

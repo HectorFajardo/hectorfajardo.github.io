@@ -1,0 +1,10 @@
+---
+title: "Evaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake"
+date: "2021-10-03"
+categories: [Presentation]
+#image: "phosforus_logo.jpeg"
+---
+
+🎥 Watch on:
+
+\- [YouTube](https://www.youtube.com/watch?v=I46-EW1CGCw)

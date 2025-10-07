@@ -8,9 +8,30 @@
   },
   {
     "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/science_communication.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/scicomm_posts/phosforus_04/index.html",
+      "/scicomm_posts/phosforus_03/index.html",
+      "/scicomm_posts/phosforus_02/index.html",
+      "/scicomm_posts/phosforus_01/index.html",
+      "/scicomm_posts/lsu_03/index.html",
+      "/scicomm_posts/lsu_02/index.html",
+      "/scicomm_posts/lsu_01/index.html"
+    ]
+  },
+  {
+    "listing": "/scicomm.html",
+    "items": [
+      "/scicomm_posts/phosforus_04/index.html",
+      "/scicomm_posts/phosforus_03/index.html",
+      "/scicomm_posts/phosforus_02/index.html",
+      "/scicomm_posts/phosforus_01/index.html",
+      "/scicomm_posts/lsu_03/index.html",
+      "/scicomm_posts/lsu_02/index.html",
+      "/scicomm_posts/lsu_01/index.html"
     ]
   }
 ]

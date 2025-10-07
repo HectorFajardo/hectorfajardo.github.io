@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Hector Fajardo",
     "section": "",
-    "text": "Portrait of Hector Fajardo\n\n\nHello! I’m Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you’ll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I’m exploring and the communities I’m collaborating with.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
+    "text": "Hello! I’m Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you’ll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I’m exploring and the communities I’m collaborating with.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -37,64 +37,134 @@
   {
     "objectID": "science_communication.html",
     "href": "science_communication.html",
-    "title": "Science Presentations",
+    "title": "Science communication",
     "section": "",
-    "text": "Spotify Apple Podcast\n\n\n\nSpotify Apple Podcast\n\n\n\nSpotify Apple Podcast\n\n\n\nSpotify Apple Podcast"
+    "text": "This section highlights my involvement in science communication initiatives and outreach activities.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\n\n\n\n\n  \n\n\n\n\nBridging Research and Practice: An interview with Dr. Deanna Osmond\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus week\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nSTEPS vision: Is 25-in-25 possible?\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMS Presentation\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n  \n\n\n\n\nKCl extraction for ammonium/nitrate (inorganic N) soil concentration\n\n\n\n\n\n\n\nTutorial\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2022\n\n\n\n\n\n\n  \n\n\n\n\nEvaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Stay up to date with my latest posts covering research highlights, science communication projects, and reflections from the field.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Stay up to date with my latest posts covering research highlights, science communication projects, and reflections from the field.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "science_communication.html#tbl-nc",
     "href": "science_communication.html#tbl-nc",
-    "title": "Science Presentations",
-    "section": "",
-    "text": "Spotify Apple Podcast"
+    "title": "Science communication",
+    "section": "TBL NC",
+    "text": "TBL NC\nSpotify Apple Podcast"
   },
   {
     "objectID": "science_communication.html#nutrient-management",
     "href": "science_communication.html#nutrient-management",
-    "title": "Science Presentations",
-    "section": "",
-    "text": "Spotify Apple Podcast"
+    "title": "Science communication",
+    "section": "Nutrient management",
+    "text": "Nutrient management\nSpotify Apple Podcast"
   },
   {
     "objectID": "science_communication.html#p-week",
     "href": "science_communication.html#p-week",
-    "title": "Science Presentations",
-    "section": "",
-    "text": "Spotify Apple Podcast"
+    "title": "Science communication",
+    "section": "P-Week",
+    "text": "P-Week\nSpotify Apple Podcast"
   },
   {
     "objectID": "science_communication.html#steps-vision",
     "href": "science_communication.html#steps-vision",
-    "title": "Science Presentations",
-    "section": "",
-    "text": "Spotify Apple Podcast"
+    "title": "Science communication",
+    "section": "STEPS vision",
+    "text": "STEPS vision\nSpotify Apple Podcast"
   },
   {
     "objectID": "science_communication.html#tri-societies-meeting-presentation",
     "href": "science_communication.html#tri-societies-meeting-presentation",
-    "title": "Science Presentations",
+    "title": "Science communication",
     "section": "Tri-societies meeting presentation",
     "text": "Tri-societies meeting presentation\nIn this video, I share the presentation I made."
   },
   {
     "objectID": "science_communication.html#kcl-extraction-for-amoniumnitrate-video-tutorial",
     "href": "science_communication.html#kcl-extraction-for-amoniumnitrate-video-tutorial",
-    "title": "Science Presentations",
+    "title": "Science communication",
     "section": "KCl extraction for amonium/nitrate video tutorial",
     "text": "KCl extraction for amonium/nitrate video tutorial\nThis is a video I prepared to explain the process of KCl extraction."
   },
   {
     "objectID": "science_communication.html#ms-thesis",
     "href": "science_communication.html#ms-thesis",
-    "title": "Science Presentations",
+    "title": "Science communication",
     "section": "MS Thesis",
     "text": "MS Thesis\nIn this video I share my MS thesis defense. I hope you enjoy it."
+  },
+  {
+    "objectID": "scicomm_posts/phosforus_01/index.html",
+    "href": "scicomm_posts/phosforus_01/index.html",
+    "title": "STEPS vision: Is 25-in-25 possible?",
+    "section": "",
+    "text": "In this episode we (George Hotelling and I, STEPS scholars) interviewed Dr. Jacob Jones, professor at North Carolina State University. We discussed the vision of the STEPS (Science and Technologies for Phosphorus Sustainability) center and the plan to achieve it.\n🎧 Listen on:\n- Spotify\n- Apple Podcast\nThis is the second episode of the first season of the PhosForUs podcast.\n![phosforus_logo](phosforus_logo.jpeg)"
+  },
+  {
+    "objectID": "scicomm_posts/phosforus_02/index.html",
+    "href": "scicomm_posts/phosforus_02/index.html",
+    "title": "Phosphorus week",
+    "section": "",
+    "text": "In this episode, I had the opportunity to interview Dr. Matt Sholz from Sustainable Phosphorus Alliance. We talked about phosphorus week (P-Week) & the importance of phosphorus sustainability.\n🎧 Listen on:\n- Spotify\n- Apple Podcast\nThis is the first episode of the second season of the PhosForUs podcast.\n![](p_week.jpg)"
+  },
+  {
+    "objectID": "scicomm_posts/phosforus_03/index.html",
+    "href": "scicomm_posts/phosforus_03/index.html",
+    "title": "Bridging Research and Practice: An interview with Dr. Deanna Osmond",
+    "section": "",
+    "text": "In this episode we (Lily Kyle and I, STEPS scholars) interviewed Dr. Deanna Osmond, professor at North Carolina State University. We discussed the challenges of phosphorus sustainability in agricultural systems and we revisited her career.\n🎧 Listen on:\n- Spotify\n- Apple Podcast\nThis is the third episode of the second season of the PhosForUs podcast.\n![](deanna.png)"
+  },
+  {
+    "objectID": "scicomm_posts/phosforus_04/index.html",
+    "href": "scicomm_posts/phosforus_04/index.html",
+    "title": "Phosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC",
+    "section": "",
+    "text": "In this episode we (Jiangfeng Xu and I, STEPS scholars) interviewed Dr. Luke Gatiboni, professor at North Carolina State University. We learn about the P fertilization in Eastern NC and build up of legacy P. Highlighting the long-term fertilization experiments in Tidewater Research Station, NC.\n🎧 Listen on:\n- Spotify\n- Apple Podcast\nThis is the seventh episode of the second season of the PhosForUs podcast.\n![](luke.jpg)"
+  },
+  {
+    "objectID": "scicomm_posts/lsu_01/index.html",
+    "href": "scicomm_posts/lsu_01/index.html",
+    "title": "Evaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake",
+    "section": "",
+    "text": "🎥 Watch on:\n- YouTube"
+  },
+  {
+    "objectID": "scicomm_posts/lsu_02/index.html",
+    "href": "scicomm_posts/lsu_02/index.html",
+    "title": "KCl extraction for ammonium/nitrate (inorganic N) soil concentration",
+    "section": "",
+    "text": "🎥 Watch on:\n- YouTube"
+  },
+  {
+    "objectID": "scicomm_posts/lsu_03/index.html",
+    "href": "scicomm_posts/lsu_03/index.html",
+    "title": "MS Presentation",
+    "section": "",
+    "text": "🎥 Watch on:\n- YouTube"
+  },
+  {
+    "objectID": "blog_posts/post-with-code/index.html",
+    "href": "blog_posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog_posts/welcome/index.html",
+    "href": "blog_posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "scicomm.html",
+    "href": "scicomm.html",
+    "title": "Science communication",
+    "section": "",
+    "text": "This section highlights my involvement in science communication initiatives and outreach activities.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\n\n\n\n\n  \n\n\n\n\nBridging Research and Practice: An interview with Dr. Deanna Osmond\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus week\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nSTEPS vision: Is 25-in-25 possible?\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMS Presentation\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n  \n\n\n\n\nKCl extraction for ammonium/nitrate (inorganic N) soil concentration\n\n\n\n\n\n\n\nTutorial\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2022\n\n\n\n\n\n\n  \n\n\n\n\nEvaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2021\n\n\n\n\n\n\nNo matching items"
   }
 ]
