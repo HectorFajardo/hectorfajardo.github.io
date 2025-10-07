@@ -17,10 +17,10 @@ website:
       #- text: Resume
       #  href: resume.qmd
       - text: CV
-        href: t05_cv.qmd
+        href: t06_cv.qmd
     right:
       - text: about
-        href: t06_about.qmd
+        href: t07_about.qmd
 
 format:
   html:
