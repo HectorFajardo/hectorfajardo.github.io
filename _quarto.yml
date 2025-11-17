@@ -3,9 +3,8 @@ project:
   output-dir: docs #to display as website in github
 
 website:
-  title: "HF"
+  title: "Hector Fajardo"
   site-url: https://hectorfajardo.github.io/
-  page-footer: "Made with Quarto"
   navbar:
     left: 
       - text: Blog
@@ -14,13 +13,11 @@ website:
         href: t03_research_projects.qmd
       - text: Sci-Comm
         href: t04_scicomm.qmd
-      #- text: Resume
-      #  href: resume.qmd
-      - text: CV
-        href: t06_cv.qmd
-    right:
-      - text: about
-        href: t07_about.qmd
+      - text: Teaching
+        href: t05_teaching.qmd
+  page-footer: 
+   left: >-
+     &#169; 2025 Hector Fajardo &#8729; Made with [Quarto](https://quarto.org)
 
 format:
   html:

@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "t01_index.html",
-    "href": "t01_index.html",
+    "objectID": "t01_home.html",
+    "href": "t01_home.html",
     "title": "Hector Fajardo",
     "section": "",
-    "text": "Hello! I’m Hector Fajardo, a researcher and science communicator passionate about understanding the world through data and sharing those insights widely. On this site you’ll find highlights from my research projects, science communication work, and writing. Take a look around to learn more about the stories I’m exploring and the communities I’m collaborating with.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
+    "text": "Hello! I’m Hector Fajardo, a researcher and science communicator focused on water quality, nutrient management, and the productivity of agricultural systems. My work integrates environmental modeling, water quality and soil science to understand nutrient dynamics across landscapes. Using a systems-based approach, I develop data-driven decision tools and science-based recommendations to support farmers, policymakers, and other stakeholders in implementing sustainable practices for soil and water conservation.\nCurrently, I’m a PhD Candidate at North Carolina State Universtity in Biological and Agricultural Engineering working at the Science and Technology for Phosphorus Sustainability (STEPS) Center. In addition, I’m part of the Foundation for Food and Agriculture Research (FFAR) - Fellow program, participating in specialized leadership and professional development training to translate research into real-world impact.\nPrior to joining NC State, I earned my Master’s in Soil Fertility from Louisiana State University and my Bachelor’s in Agricultural Engineering from the Universidad Mayor de San Andrés in Bolivia.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
   },
   {
     "objectID": "t02_blog.html",
     "href": "t02_blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Stay up to date with my latest posts covering research highlights, science communication projects, and reflections from the field.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Stay up to date with my latest posts covering research highlights, science communication projects, and reflections from the field.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 17, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "t02_blog_posts/post-with-code/index.html",
@@ -39,7 +39,7 @@
     "href": "t04_scicomm.html",
     "title": "Science communication",
     "section": "",
-    "text": "This section highlights my involvement in science communication initiatives and outreach activities.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\n\n\n\n\n  \n\n\n\n\nBridging Research and Practice: An interview with Dr. Deanna Osmond\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPhosphorus week\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nSTEPS vision: Is 25-in-25 possible?\n\n\n\n\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nMS Presentation\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n  \n\n\n\n\nKCl extraction for ammonium/nitrate (inorganic N) soil concentration\n\n\n\n\n\n\n\nTutorial\n\n\n\n\n\n\n\n\n\n\n\nMar 21, 2022\n\n\n\n\n\n\n  \n\n\n\n\nEvaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake\n\n\n\n\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "This section highlights my involvement in science communication initiatives and outreach activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhosphorus Fertilization Insights from the Agricultural Triple Bottom Line Scenario Site in NC\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\nMay 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBridging Research and Practice: An interview with Dr. Deanna Osmond\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPhosphorus week\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\nApr 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSTEPS vision: Is 25-in-25 possible?\n\n\n\nPodcast\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nMS Presentation\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nKCl extraction for ammonium/nitrate (inorganic N) soil concentration\n\n\n\nTutorial\n\n\n\n\n\n\n\n\n\nMar 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation of NDVI for Predicting Cover Crop Biomass and Nutrient Uptake\n\n\n\nPresentation\n\n\n\n\n\n\n\n\n\nOct 3, 2021\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "t04_scicomm_posts/lsu_01/index.html",
@@ -96,5 +96,19 @@
     "title": "Hector Fajardo",
     "section": "",
     "text": "Hi there! 👋\nI’m an agricultural engineer and agronomist with a passion for keeping nutrients where they belong — in the soil, not the water.\nI’m currently pursuing my PhD at North Carolina State University (Go Pack! 🐺🐾) in Biological and Agricultural Engineering, where I spend my days thinking about phosphorus, modeling watersheds, and explaining to my computer why it should cooperate.\nAlso, I’m proud to be both a STEPS Scholar and a FFAR Fellow, which basically means I get to work with some brilliant people while trying to save the world one nutrient cycle at a time.\nBefore landing in Raleigh, NC, I earned my Master’s in Soil Fertility from Louisiana State University (Geaux Tigers! 🐅) and my Bachelor’s in Agricultural Engineering from Universidad Mayor de San Andrés in Bolivia ⛰️🇧🇴.\nIn short — I love soil, sustainability, and simulations. If it involves plants, water, or code, there’s a good chance I’m interested."
+  },
+  {
+    "objectID": "t01_home.html",
+    "href": "t01_home.html",
+    "title": "Hector Fajardo",
+    "section": "",
+    "text": "Hello! I’m Hector Fajardo, a researcher and science communicator focused on water quality, nutrient management, and the productivity of agricultural systems. My work integrates environmental modeling, water quality and soil science to understand nutrient dynamics across landscapes. Using a systems-based approach, I develop data-driven decision tools and science-based recommendations to support farmers, policymakers, and other stakeholders in implementing sustainable practices for soil and water conservation.\nCurrently, I’m a PhD Candidate at North Carolina State Universtity in Biological and Agricultural Engineering working at the Science and Technology for Phosphorus Sustainability (STEPS) Center. In addition, I’m part of the Foundation for Food and Agriculture Research (FFAR) - Fellow program, participating in specialized leadership and professional development training to translate research into real-world impact.\nPrior to joining NC State, I earned my Master’s in Soil Fertility from Louisiana State University and my Bachelor’s in Agricultural Engineering from the Universidad Mayor de San Andrés in Bolivia.\nWhether you’re interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I’m always excited to connect and discuss new ideas."
+  },
+  {
+    "objectID": "t05_teaching.html",
+    "href": "t05_teaching.html",
+    "title": "Teaching / Outreach",
+    "section": "",
+    "text": "This section highlights my teaching and outreach activities.\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
