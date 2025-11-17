@@ -1,0 +1,30 @@
+---
+title: "Hector Fajardo"
+subtitle: "Environmental Modeler | Soil Fertility | Data Scientist"
+image: home_pic.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 400px
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/HectorFajardo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hfajardo9/
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0003-0055-3580
+    - icon: envelope-at
+      text: email address
+      href: mailto:hhfajard@ncsu.edu
+---
+
+Hello! I'm Hector Fajardo, a researcher and science communicator focused on water quality, nutrient management, and the productivity of agricultural systems. My work integrates environmental modeling, water quality and soil science to understand nutrient dynamics across landscapes. Using a systems-based approach, I develop data-driven decision tools and science-based recommendations to support farmers, policymakers, and other stakeholders in implementing sustainable practices for soil and water conservation.
+
+Currently, I'm a PhD Candidate at North Carolina State Universtity in [*Biological and Agricultural Engineering*](https://bae.ncsu.edu/) working at the [*Science and Technology for Phosphorus Sustainability (STEPS) Center*](https://steps-center.org/). In addition, I'm part of the [*Foundation for Food and Agriculture Research (FFAR) - Fellow program*](https://ffarfellows.org/), participating in specialized leadership and professional development training to translate research into real-world impact.
+
+Prior to joining NC State, I earned my Master’s in Soil Fertility from *Louisiana State University* and my Bachelor’s in Agricultural Engineering from the *Universidad Mayor de San Andrés* in Bolivia.
+
+Whether you're interested in collaborating, learning more about my work, or just saying hello, feel free to reach out. I'm always excited to connect and discuss new ideas.

@@ -1,63 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hectorfajardo.github.io/t01_index.html</loc>
-    <lastmod>2025-10-07T21:08:40.741Z</lastmod>
+    <loc>https://hectorfajardo.github.io/t01_home.html</loc>
+    <lastmod>2025-11-17T18:44:10.916Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t02_blog.html</loc>
-    <lastmod>2025-10-07T21:08:46.270Z</lastmod>
+    <lastmod>2025-11-17T18:34:07.610Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t02_blog_posts/post-with-code/index.html</loc>
-    <lastmod>2025-10-07T21:08:31.676Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.897Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t02_blog_posts/welcome/index.html</loc>
-    <lastmod>2025-10-07T21:08:32.219Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.897Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t03_research_projects.html</loc>
-    <lastmod>2025-10-07T21:09:14.506Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.900Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm.html</loc>
-    <lastmod>2025-10-07T21:09:57.525Z</lastmod>
+    <lastmod>2025-11-17T18:34:03.977Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/lsu_01/index.html</loc>
-    <lastmod>2025-10-07T21:08:34.246Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.900Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/lsu_02/index.html</loc>
-    <lastmod>2025-10-07T21:08:34.878Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.900Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/lsu_03/index.html</loc>
-    <lastmod>2025-10-07T21:08:35.356Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.900Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/phosforus_01/index.html</loc>
-    <lastmod>2025-10-07T21:08:35.886Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.900Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/phosforus_02/index.html</loc>
-    <lastmod>2025-10-07T21:08:36.427Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.902Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/phosforus_03/index.html</loc>
-    <lastmod>2025-10-07T21:08:36.979Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.914Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t04_scicomm_posts/phosforus_04/index.html</loc>
-    <lastmod>2025-10-07T21:08:37.469Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.918Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t06_cv.html</loc>
-    <lastmod>2025-10-07T21:08:37.964Z</lastmod>
+    <lastmod>2025-11-17T14:46:23.918Z</lastmod>
   </url>
   <url>
     <loc>https://hectorfajardo.github.io/t07_about.html</loc>
     <lastmod>2025-10-07T21:08:38.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/t01_home.html</loc>
+    <lastmod>2025-11-17T18:40:11.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hectorfajardo.github.io/t05_teaching.html</loc>
+    <lastmod>2025-11-17T18:34:11.663Z</lastmod>
   </url>
 </urlset>
